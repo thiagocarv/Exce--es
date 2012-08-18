@@ -1,0 +1,5 @@
+c:\users\thiago\documents\visual studio 2010\Projects\Resolveproblemas\Resolveproblemas\bin\Debug\Resolveproblemas.exe
+c:\users\thiago\documents\visual studio 2010\Projects\Resolveproblemas\Resolveproblemas\bin\Debug\Resolveproblemas.pdb
+c:\users\thiago\documents\visual studio 2010\Projects\Resolveproblemas\Resolveproblemas\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\thiago\documents\visual studio 2010\Projects\Resolveproblemas\Resolveproblemas\obj\x86\Debug\Resolveproblemas.exe
+c:\users\thiago\documents\visual studio 2010\Projects\Resolveproblemas\Resolveproblemas\obj\x86\Debug\Resolveproblemas.pdb
